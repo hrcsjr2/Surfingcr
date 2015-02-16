@@ -5,6 +5,7 @@ Imports System.Web.Http
 
 Public Class WebApiConfig
     Public Shared Sub Register(ByVal config As HttpConfiguration)
+        'Ruta por defecto
         config.Routes.MapHttpRoute( _
             name:="DefaultApi", _
             routeTemplate:="api/{controller}/{id}", _
