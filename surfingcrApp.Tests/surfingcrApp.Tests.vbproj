@@ -136,9 +136,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\surfingcrApp\surfingcrAppUI.vbproj">
+    <ProjectReference Include="..\surfingcrApp\surfingcrApp.vbproj">
       <Project>{2751D2E3-2AAA-498D-9F74-6F9ACB8D80AB}</Project>
-      <Name>surfingcrAppUI</Name>
+      <Name>surfingcrApp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
