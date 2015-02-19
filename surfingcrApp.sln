@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "surfingcrApp", "surfingcrAp
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "surfingcrApp.Tests", "surfingcrApp.Tests\surfingcrApp.Tests.vbproj", "{771A6FE5-7A4B-4CB9-B571-17E28991A2E1}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "surfingcrAppCore", "surfingcrAppCore\surfingcrAppCore.vbproj", "{FEE48282-8479-499D-B51D-7452993AC72B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{771A6FE5-7A4B-4CB9-B571-17E28991A2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771A6FE5-7A4B-4CB9-B571-17E28991A2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771A6FE5-7A4B-4CB9-B571-17E28991A2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE48282-8479-499D-B51D-7452993AC72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE48282-8479-499D-B51D-7452993AC72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE48282-8479-499D-B51D-7452993AC72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE48282-8479-499D-B51D-7452993AC72B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
